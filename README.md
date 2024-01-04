@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DBugster
 - 👀 I’m interested in full stack development! And game dev (but no experience ☹ )
 - ⌨ I am proficient in C#, ColdFusion, MySQL, HTML, and JS
-- 💞️ I’m looking to collaborate on interessting and scalable projects.
+- 📈 I’m looking to collaborate on interessting and scalable projects.
 - 📫 How to reach me linkedin.com/in/diogo-sousa-bentes-721435107/
 
 <!---
